@@ -1,6 +1,6 @@
 ### Hello 👋
 
 
-- 💻 I’m currently working on some projects that I'm studying.
+- 💻 Bringing my studies to life with front-end development projects.
 - 📫 Let's connect > fecroce@hotmail.com
 
