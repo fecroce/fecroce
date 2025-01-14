@@ -2,5 +2,5 @@
 
 
 - 💻 Bringing my studies to life with front-end development projects.
-- 📫 Let's connect > fecroce@hotmail.com
+- 📫 Let's connect > www.linkedin.com/in/fecroce
 
